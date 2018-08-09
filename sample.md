@@ -1,5 +1,5 @@
-# Logic-001
+# <Topic>-0XX
 ## Question Detail
 รายละเอียดโจทย์
-## Solution
-วิธีแก้พร้อมคำตอบ
+## Answer
+คำตอบ
