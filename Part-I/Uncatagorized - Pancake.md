@@ -1,4 +1,4 @@
-# Uncatagorized-012
+# Uncatagorized - Pancake
 ## Question Detail
 ร้านแพนเค้กร้านหนึ่งจัดโปรโมชัน "ซื้อ 5 ชิ้นแถม 3 ชิ้น" โดยแพนเค้กมีราคาชิ้นละ 25 บาท
 

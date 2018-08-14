@@ -1,4 +1,4 @@
-# Uncatagorized-016
+# Uncatagorized - Bank Notes
 ## Question Detail
 เงินจำนวน 13580 บาท สามารถเก็บเป็นธนบัตรได้น้อยที่สุดทั้งหมดกี่ใบได้อย่างพอดี
 

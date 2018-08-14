@@ -1,4 +1,4 @@
-# Logic-023
+# Logic - Types of People
 ## Question Detail
 หากบนโลกนี้มีคนอยู่ 3 ประเภท
 - ประเภทที่ 1 จะพูดความจริงเสมอ

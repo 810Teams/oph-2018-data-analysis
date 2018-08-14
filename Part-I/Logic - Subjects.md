@@ -1,4 +1,4 @@
-# Logic-018
+# Logic - Subjects
 ## Question Detail
 กำหนดข้อความดังนี้:
 - คนที่ลงทะเบียนวิชา Computer Programming ทุกคน จะลงทะเบียนวิชา Basic Mathematics 

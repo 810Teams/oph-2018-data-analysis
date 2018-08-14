@@ -1,4 +1,4 @@
-# Uncatagorized-021
+# NumberTheory - 08
 ## Question Detail
 กำหนดให้ a และ b เป็นจำนวนเต็ม และ a != b
 

@@ -1,4 +1,4 @@
-# NumberTheory-002
+# NumberTheory - 01
 ## Question Detail
 จงหาเลขหลักหน่วยของ 7 ยกกำลัง 100
 ## Answer

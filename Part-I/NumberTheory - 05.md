@@ -1,4 +1,4 @@
-# NumberTheory-009
+# NumberTheory - 05
 ## Question Detail
 A B และ C เป็นจำนวนเต็ม แล้ว A+B, A+C และ B+C สามารถเป็นจำนวนคี่ทั้งหมดได้หรือไม่ เพราะอะไร
 

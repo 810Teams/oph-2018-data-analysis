@@ -1,4 +1,4 @@
-# Logic-025
+# Logic - Coins in Chests
 ## Question Detail
 มีหีบอยู่ 3 ใบ โดยแต่ละหีบจะมีข้อความกำกับดังนี้
 

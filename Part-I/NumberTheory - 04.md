@@ -1,4 +1,4 @@
-# NumberTheory-007
+# NumberTheory - 04
 ## Question Detail
 x / (x - 1) = 1 / (x - 1)
 จงหาค่า x
