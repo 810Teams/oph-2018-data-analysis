@@ -1,4 +1,4 @@
-# Probability - 08
+# Probability - Survey
 ## Question Detail
 จากผลสำรวจในรัฐแห่งที่หนึ่ง มีคนชอบพรรค Republicans 52% ส่วนที่เหลือเป็นของพรรค Democrats และผลสำรวจในรัฐที่สองคนชอบ Democrats 53% นอกจากนั้น 47% เป็นของ Republicans โดยผลสำรวจนี้มาจากการสุ่มสำรวจคนทั้งหมด 100 คนจากแต่ละรัฐ
 

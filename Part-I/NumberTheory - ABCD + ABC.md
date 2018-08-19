@@ -1,4 +1,4 @@
-# Uncatagorized - ABCD + ABC
+# NumberTheory - ABCD + ABC
 ## Question Detail
 ให้ A, B, C และ D แทนเลขโดดที่ไม่ใช่ 0 โดยนำตัวเลขทั้ง 4 มาเรียงกันเป็นจำนวนเต็มหลายหลัก
 
