@@ -3,7 +3,7 @@ Data Generating Script
 """
 
 import numpy, pandas
-from random import randint, choice
+from random import choice
 from math import floor
 
 grades_db = {4: 'A', 3.5: 'B+', 3: 'B', 2.5: 'C+', 2: 'C', 1.5: 'D+', 1: 'D', 0.5: 'F', 0: 'F'}
@@ -14,7 +14,7 @@ def main():
     """ Main function """
     # gen_sample()
     # gen_quiz()
-    solve()
+    # solve()
 
 def gen_sample():
     """ Generate Sample Dataset """
@@ -58,18 +58,3 @@ def solve():
     print(df[['Name', 'Programming', 'English', 'Mathematics', 'Computer']])
 
 main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
