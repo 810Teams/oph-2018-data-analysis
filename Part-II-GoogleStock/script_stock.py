@@ -1,18 +1,14 @@
 """
-Data Generating Script
+    Google Stock Problem
+    Score Calculation Script
 """
 
-import numpy, pandas
-from random import choice
-from math import floor
+# C, B, B+, C+, D+, D, B+, B, F, A
 
 def main():
     """ Main function """
-    corrects = [803.210022, 802.330017,
-                813.330017, 808.679993,
-                808.01001,  809.099976,
-                815.719971, 813.369995,
-                809.280029, 818.309998]
+    corrects = [803.210022, 802.330017, 813.330017, 808.679993, 808.01001,
+                809.099976, 815.719971, 813.369995, 809.280029, 818.309998]
 
     scores = [calculate(float(input()), i, 5, 10) for i in corrects]
 

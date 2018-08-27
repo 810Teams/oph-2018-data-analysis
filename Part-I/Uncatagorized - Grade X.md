@@ -19,7 +19,7 @@
 ## Answer
 - Computer Programming ได้เกรด B+
 - Foundation English ได้เกรด D+
-- Introduction to Computer ได้เกรด A
+- Introduction to Computer Systems ได้เกรด A
 - Information Technology Fundamentals ได้เกรด C+
 - Mathematics for Information Technology ได้เกรด A
 - Discrete Mathematics ได้เกรด D

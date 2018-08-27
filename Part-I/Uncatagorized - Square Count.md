@@ -5,4 +5,4 @@
 ![](assets/square_count.png)
 
 ## Answer
-25 รูป
+24 รูป
