@@ -21,3 +21,7 @@ For documents, please visit this [site](https://drive.google.com/drive/folders/1
 |<img width="120px" height="120px" src="resources/img/">|<img width="120px" height="120px" src="resources/img/">|
 |[]()|[]()|
 |Supanan<br>Kwanprao|Nattakarn<br>Kruasang|
+
+[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
