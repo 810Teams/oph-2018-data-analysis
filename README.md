@@ -12,13 +12,13 @@ For documents, please visit this [site](https://drive.google.com/drive/folders/1
 |:-:|:-:|:-:|:-:|:-:|
 |[810Teams](https://github.com/810Teams)|[POKINBKK](https://github.com/POKINBKK)|[tintinap](https://github.com/tintinap)|[prachyaprapawat](https://github.com/prachyaprapawat)|[wannovo](https://github.com/wannovo)|
 |Teerapat<br>Kraisrisirikul|Supakit<br>Theanthunyakit|Tinnapat<br>Pliangsri|Prachya<br>Prapawat|Taitana<br>Yumee|
-|<img width="120px" height="120px" src="resources/img/foofybuster.jpg">|<img width="120px" height="120px" src="resources/img/">|<img width="120px" height="120px" src="resources/img/">|<img width="120px" height="120px" src="resources/img/meenpongpanit.jpg">|<img width="120px" height="120px" src="resources/img/mrfamemrrat.jpg">|
+|<img width="120px" height="120px" src="resources/img/foofybuster.jpg">|<img width="120px" height="120px" src="resources/img/jirasak_jungburapa.jpg">|<img width="120px" height="120px" src="resources/img/nattakit_sumreth.jpg">|<img width="120px" height="120px" src="resources/img/meenpongpanit.jpg">|<img width="120px" height="120px" src="resources/img/mrfamemrrat.jpg">|
 |[foofybuster](https://github.com/foofybuster)|[]()|[]()|[MeenPongpanit](https://github.com/MeenPongpanit)|[MrFameMrRat](https://github.com/MrFameMrRat)|
 |Pornprom<br>Kiawjak|Jirasak<br>Jungburapa|Nattakit<br>Sumreth|Pongpanit<br>Aranratsopon|Purinut<br>Jitmanas|
-|<img width="120px" height="120px" src="resources/img/wachirasitp.jpg">|<img width="120px" height="120px" src="resources/img/winterds.jpeg">|<img width="120px" height="120px" src="resources/img/">|<img width="120px" height="120px" src="resources/img/">|<img width="120px" height="120px" src="resources/img/">|
+|<img width="120px" height="120px" src="resources/img/wachirasitp.jpg">|<img width="120px" height="120px" src="resources/img/winterds.jpeg">|<img width="120px" height="120px" src="resources/img/kamonchanok_charoyboon.jpg">|<img width="120px" height="120px" src="resources/img/suwipa_nanchai.jpg">|<img width="120px" height="120px" src="resources/img/getsaranee_trisawaswong.jpg">|
 |[wachirasitp](https://github.com/wachirasitp)|[winterds](https://github.com/winterds)||[]()[]()|[]()|
 |Wachirasit<br>Yeetan|Saran<br>Hanthongkam|Kamonchanok<br>Charoyboon|Suwipa<br>Nanchai|Getsaranee<br>Trisawaswong|
-|<img width="120px" height="120px" src="resources/img/">|<img width="120px" height="120px" src="resources/img/">|
+|<img width="120px" height="120px" src="resources/img/supanan_kwanprao.jpg">|<img width="120px" height="120px" src="resources/img/nattakarn_kruasang.jpg">|
 |[]()|[]()|
 |Supanan<br>Kwanprao|Nattakarn<br>Kruasang|
 
