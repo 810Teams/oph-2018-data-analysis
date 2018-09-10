@@ -18,8 +18,8 @@ For documents, please visit this [site](https://drive.google.com/drive/folders/1
 |<img width="120px" height="120px" src="resources/img/wachirasitp.jpg">|<img width="120px" height="120px" src="resources/img/winterds.jpeg">|<img width="120px" height="120px" src="resources/img/kamonchanok_charoyboon.jpg">|<img width="120px" height="120px" src="resources/img/suwipa_nanchai.jpg">|<img width="120px" height="120px" src="resources/img/getsaranee_trisawaswong.jpg">|
 |[wachirasitp](https://github.com/wachirasitp)|[winterds](https://github.com/winterds)||[]()[]()|[]()|
 |Wachirasit<br>Yeetan|Saran<br>Hanthongkam|Kamonchanok<br>Charoyboon|Suwipa<br>Nanchai|Getsaranee<br>Trisawaswong|
-|<img width="120px" height="120px" src="resources/img/supanan_kwanprao.jpg">|<img width="120px" height="120px" src="resources/img/nattakarn_kruasang.jpg">|
-|[]()|[]()|
+|<img width="120px" height="120px" src="resources/img/supanan_kwanprao.jpg">|<img width="120px" height="120px" src="resources/img/nannieeinnan.jpg">|
+|[]()|[nannieeinnan](https://github.com/nannieeinnan)|
 |Supanan<br>Kwanprao|Nattakarn<br>Kruasang|
 
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
